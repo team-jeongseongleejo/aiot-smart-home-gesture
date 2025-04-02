@@ -36,7 +36,7 @@
 - **IoT 제어**: Arduino Uno R4 WiFi, 릴레이 모듈
 - **통신 프로토콜**: MQTT
 - **클라우드 연동**: Firebase Realtime Database
-- **대시보드**: Streamlit 또는 Flask + Chart.js
+- **대시보드**: Streamlit/Flask + Chart.js
 
 ---
 
